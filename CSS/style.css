@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+color: black;
+font-size: large;
+font-family: 'Lato', sans-serif;
+}
+
+ul.states{
+    list-style-image: url("https://i.postimg.cc/cJ4yqmxP/map.jpg");
+    
+}
+
+li{
+    background-size: 10px;
+    color: black;
+}
